@@ -2,7 +2,7 @@
 
 Olá meu nome é João 
 <br>
-Ainda sou um desenvolvedor em formação
+Ainda sou um programador em formação
 
 
 ---
