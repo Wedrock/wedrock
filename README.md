@@ -1,6 +1,6 @@
 ## João
 
-Me chamo João Pedro Danjour, tenho 17 anos e sou natural do Rio Grande do Norte. Ainda estou concluindo o ensino médio no colégio CENEP, com o curso técnico em informática. 
+Olá meu nome é João 
 Ainda sou um desenvolvedor em formação
 
 
