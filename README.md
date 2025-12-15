@@ -5,7 +5,7 @@
 
 Olá meu nome é João 
 <br>
-Ainda sou um programador em formação
+Sou um estudante de Informática 
 
 
 ---
