@@ -46,8 +46,8 @@ Sou um estudante de Informática
 />
 <img 
     align="left" 
-    alt="php" 
-    title="php"
+    alt="Php" 
+    title="Php"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
