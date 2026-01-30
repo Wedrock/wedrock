@@ -1,6 +1,6 @@
 ## João
 
-<img src="https://camo.githubusercontent.com/ef2c0b21fce44252c9eadeb6698ca9150ace2470a34f25809314b2485f435ae0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64666b5877384e626b6b7873512f67697068792e676966" alt="GIF de um desenvolvedor codificando">
+<img src="[https://camo.githubusercontent.com/ef2c0b21fce44252c9eadeb6698ca9150ace2470a34f25809314b2485f435ae0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64666b5877384e626b6b7873512f67697068792e676966](https://tenor.com/search/throw-away-computer-gif-gifs)" alt="GIF de um desenvolvedor codificando">
 <br>
 
 Olá meu nome é João 
