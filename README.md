@@ -5,8 +5,7 @@
 
 Olá meu nome é João 
 <br>
-Sou um estudante de Informática 
-
+Sou estudante de Informática e desenvolvedor de sistemas e páginas web.
 
 ---
 
