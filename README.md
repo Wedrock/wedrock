@@ -15,7 +15,10 @@
   <img width="100%" src="https://streak-stats.demolab.com/?user=Wedrock&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Sequência de contribuições" />
 </picture>
 
-<br/>
+<!--
+As imagens do github-readme-stats estão temporariamente fora do ar (Erro 503 no servidor deles).
+Estou deixando comentado para que o seu perfil não fique com imagens quebradas.
+Quando o serviço voltar, basta remover estes comentários.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wedrock&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
@@ -25,6 +28,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wedrock&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wedrock&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Linguagens mais usadas" />
 </picture>
+-->
 
 </div>
 
