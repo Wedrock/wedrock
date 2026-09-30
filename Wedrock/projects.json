@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hayra",
+    "repo": "Wedrock/NOME-DO-REPO",
+    "logo": "",
+    "description": "E-commerce de moda fitness feminina",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Crochês by Nana",
+    "repo": "Wedrock/NOME-DO-REPO",
+    "logo": "",
+    "description": "Loja virtual de peças de crochê",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Enem Boost",
+    "repo": "Wedrock/NOME-DO-REPO",
+    "logo": "",
+    "description": "Versão web de um app de estudos para o ENEM",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "CIF",
+    "repo": "Wedrock/NOME-DO-REPO",
+    "logo": "",
+    "description": "Centro de Inteligência Financeira — aplicação do meu TCC sobre educação financeira",
+    "tags": ["Web", "TCC"]
+  }
+]
