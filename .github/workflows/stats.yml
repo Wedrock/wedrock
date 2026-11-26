@@ -1,0 +1,35 @@
+name: Generate Stats Card
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/generate_stats.py"
+      - ".github/workflows/stats.yml"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_stats.py "${{ github.repository_owner }}" out
+
+      - name: Push to stats branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats
+          build_dir: out
+          commit_message: "Update stats card [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
