@@ -22,7 +22,9 @@ jobs:
 
       - name: Generate stats.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN (optional): a personal token of yours with the read:user
+          # scope, so private contributions are counted like on your profile.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/generate_stats.py "${{ github.repository_owner }}" out
 
       - name: Push to stats branch
